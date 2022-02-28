@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/button_border.xml" value="0.290625" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/custom_rating.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.290625" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/rating_empty.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/rating_fill.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/drawable/transparent_bg_bordered_button.xml" value="0.290625" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/activity_main.xml" value="0.3237847222222222" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/all_movies.xml" value="1.0" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/button_cat.xml" value="0.9473684210526315" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/description.xml" value="0.6826424870466321" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/drawer.xml" value="0.8405103668261563" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/login.xml" value="0.6925098554533509" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/movie.xml" value="0.9473684210526315" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/register.xml" value="0.6704834605597965" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-hdpi/search.xml" value="0.9473684210526315" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/all_movies.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/description.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/drawer.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/login.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-mhdpi/register.xml" value="0.24139492753623187" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/all_movies.xml" value="0.3649193548387097" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/button_cat.xml" value="0.3870967741935484" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/description.xml" value="0.3649193548387097" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/drawer.xml" value="0.3649193548387097" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/login.xml" value="0.3649193548387097" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/register.xml" value="0.3581989247311828" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xhdpi/search.xml" value="0.3870967741935484" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/all_movies.xml" value="0.2" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/button_cat.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/description.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/drawer.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/login.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/movie.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/movie_holder.xml" value="0.264" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/register.xml" value="0.24139492753623187" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxhdpi/search.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.18545081967213115" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/all_movies.xml" value="0.18545081967213115" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/button_cat.xml" value="0.19672131147540983" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/description.xml" value="0.18545081967213115" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/drawer.xml" value="0.18545081967213115" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/login.xml" value="0.18545081967213115" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/register.xml" value="0.18203551912568305" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout-xxxhdpi/search.xml" value="0.19672131147540983" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_main.xml" value="0.6" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/all_movies.xml" value="0.8" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/button.xml" value="0.26992753623188404" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/button_cat.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/cat_movie.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/description.xml" value="0.72" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/drawer.xml" value="0.72" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/image_holder.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/listrow.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/login.xml" value="0.6" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/movie.xml" value="0.4" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/movie_holder.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/rating_fill.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/ratingbar.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/register.xml" value="0.72" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/review_holder.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/search.xml" value="0.72" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/layout/title.xml" value="0.6" />
+        <entry key="..\:/Users/subas/AndroidStudioProjects/Movie/app/src/main/res/xml/network_security_config.xml" value="0.26268115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

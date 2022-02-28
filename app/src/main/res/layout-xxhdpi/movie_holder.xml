@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="20dp"
+        app:cardBackgroundColor="@color/black"
+        android:layout_margin="5dp">
+
+        <ImageView
+            android:id="@+id/cov"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="20dp"
+            android:layout_gravity="left"
+            android:src="@drawable/services"
+            android:background="@android:color/transparent"
+            tools:ignore="InvalidId" />
+
+        <TextView
+            android:id="@+id/mov_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kung-Fu Hustle"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="150dp"
+            android:layout_marginTop="10dp"
+            android:textSize="16sp"
+            tools:ignore="InvalidId" />
+
+        <TextView
+            android:id="@+id/no_rat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#F10E0E"
+            android:layout_marginTop="45dp"
+            android:textSize="18sp"
+            android:layout_marginStart="150dp"
+            android:layout_marginBottom="13dp"/>
+
+        <RatingBar
+            android:id="@+id/ratingBar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="40dp"
+            android:isIndicator="true"
+            android:max="5"
+            android:progressBackgroundTint="@android:color/darker_gray"
+            android:progressTint="@android:color/holo_orange_dark"
+            android:rating="3"
+            android:rotation="360"
+            android:scaleX=".4"
+            android:scaleY=".4"
+            android:secondaryProgressTint="@android:color/holo_purple" />
+
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

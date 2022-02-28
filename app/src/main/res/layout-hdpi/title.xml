@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/sertl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:scrollIndicators="bottom"
+        app:cardCornerRadius="10dp">
+    <TextView
+        android:id="@+id/titl"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="moviename"
+        android:textColor="@color/black"
+        android:textSize="20dp"/>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

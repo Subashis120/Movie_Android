@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#D2000000"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".login">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageButton
+                android:id="@+id/home"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:background="@android:color/transparent"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/ic_baseline_home_24"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_marginTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/login" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="250dp"
+                android:layout_marginStart="110dp"
+                android:text="Login"
+                android:textSize="35dp"
+                android:textColor="@color/white"
+                android:fontFamily="sans-serif-condensed-light"
+                />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/username"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="350dp"
+                android:backgroundTint="@android:color/holo_red_dark"
+                android:gravity="center"
+                android:hint="email-address"
+                android:inputType="textEmailAddress"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#75FFFFFF" />
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/password"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="420dp"
+                android:backgroundTint="@android:color/holo_red_dark"
+                android:gravity="center"
+                android:hint="password"
+                android:inputType="textWebPassword"
+                android:textColor="@color/white"
+                android:textColorHint="#75FFFFFF" />
+
+            <ProgressBar
+                android:id="@+id/pBar"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="130dp"
+                android:layout_marginTop="400dp" />
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="490dp"
+                android:text="Login"
+                android:textColor="@color/white" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/register1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="200dp"
+                android:layout_marginTop="490dp"
+                android:background="@android:color/transparent"
+                android:text="Register"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
